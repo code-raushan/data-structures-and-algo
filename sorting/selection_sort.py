@@ -1,3 +1,5 @@
+# algorithm - find minimum first and put it at the top of the last (starting from bottom) and repeat the process
+
 def selection_sort(l):
     n = len(l)
     if (n<1):
